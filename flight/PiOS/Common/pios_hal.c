@@ -130,7 +130,7 @@ uintptr_t pios_com_debug_id;
 #endif
 
 #ifndef PIOS_COM_MSP_RX_BUF_LEN
-#define PIOS_COM_MSP_RX_BUF_LEN 128
+#define PIOS_COM_MSP_RX_BUF_LEN 64
 #endif
 
 #ifndef PIOS_COM_HOTT_RX_BUF_LEN
